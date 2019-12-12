@@ -39,7 +39,7 @@
     "dist/**/*"
   ],
   "dependencies": {
-    "globe.gl": "^2.6.0",
+    "globe.gl": "git@github.com:shogunenterprises/globe.gl.git",
     "prop-types": "^15.7.2",
     "react-kapsule": "^2.1.2"
   },
